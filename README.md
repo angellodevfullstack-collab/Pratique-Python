@@ -49,6 +49,3 @@ Foram criados os seguintes gráficos:
 - 📉 Regressão (Relação Preço x Vendas)
 
 Cada gráfico possui título, eixos identificados e foco em insights de negócio.
-
-## 📁 Estrutura do Repositório
-
